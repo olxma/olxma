@@ -7,7 +7,7 @@
 <code>Kafka</code>
 <code>Microservice Architecture</code>
 
-⌗ me@olegmashkov.com</br>
+⌗ hello@olegmashkov.com</br>
 ⌗ <a href="https://www.linkedin.com/in/oleg-mashkov-12b759236/">LinkedIn</a></br>
 ⌗ <a href="https://twitter.com/olegxmashkov">Twitter</a></br>
 ⌗ <a href="https://t.me/olegxmashkov">Telegram</a>
