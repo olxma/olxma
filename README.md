@@ -1,4 +1,4 @@
-## Hi, I’m Oleg Mashkov, I'm a Java Software Engineer at @epam
+## Hi, my name is Oleg Mashkov and I'm a Java Software Engineer at @epam
 <code>Java</code>
 <code>Spring</code>
 <code>Spring Boot</code>
