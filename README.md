@@ -6,6 +6,7 @@
 <code>gRPC</code>
 <code>Kafka</code>
 <code>Microservice Architecture</code>
+<code>Clean code</code>
 
 ⌗ hello@olegmashkov.com</br>
 ⌗ <a href="https://www.linkedin.com/in/oleg-mashkov-12b759236/">LinkedIn</a></br>
