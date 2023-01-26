@@ -28,6 +28,7 @@ I'm a Java Software Engineer at [EPAM](https://www.epam.com)
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 <!--
+Postman
 Liquibase
 Mockito
 Logstash
