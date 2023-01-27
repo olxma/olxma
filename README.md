@@ -32,8 +32,6 @@ I'm a Java Software Engineer at [EPAM](https://www.epam.com)
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![microservices](https://img.shields.io/badge/Microservice%20Architecture-000000?style=for-the-badge&logo=microservices&logoColor=white)
-![cleancode](https://img.shields.io/badge/Clean%20code-EB5355?style=for-the-badge&logo=cleancode&logoColor=white)
 
 ## 🤝 Contact with me
 [![hello@olegmashkov.com](https://img.shields.io/badge/hello@olegmashkov.com-E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hello@olegmashkov.com)
