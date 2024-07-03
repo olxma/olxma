@@ -35,9 +35,8 @@ I'm a Java Software Engineer at [EPAM](https://www.epam.com)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🤝 Contact with me
-[![hello@olegmashkov.com](https://img.shields.io/badge/hello@olegmashkov.com-E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hello@olegmashkov.com)
+[![olegmashkov21@gmail.com](https://img.shields.io/badge/olegmashkov21@gmail.com-E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:olegmashkov21@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-mashkov-12b759236)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/olegxmashkov)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olegxmashkov)
 <!---
 olxma/olxma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
